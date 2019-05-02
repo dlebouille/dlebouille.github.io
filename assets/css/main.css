@@ -78,6 +78,31 @@ input, select, textarea {
 	appearance: none;
 }
 
+
+
+/* For the text above image in banner when announcements */
+
+.imgcontainer {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+.imgcentered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+	.fishes
+	{
+		position:absolute;
+		top: 10px;
+		left: 10px;
+		z-index: 1;
+	}
+	.fish
+
+
 /* Basic */
 
 	html {
